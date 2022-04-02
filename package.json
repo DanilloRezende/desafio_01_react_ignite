@@ -40,5 +40,7 @@
     "webpack": "^5.17.0",
     "webpack-cli": "^4.4.0",
     "webpack-dev-server": "^3.11.2"
-  }
+  },
+  "repository": "https://github.com/DanilloRezende/desafio_01_react_ignite.git",
+  "author": "DanilloRezende <danillo.rezende3@gmail.com>"
 }
